@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Josh Quinlan"
+title = "Josh Quinlan - British Audio Producer"
 copyright = "© Josh Quinlan"
 
 [params]
@@ -14,7 +14,7 @@ copyright = "© Josh Quinlan"
 
 [params.author]
   name = "Josh Quinlan"
-  image = "author.png"
+  image = "img/author.png"
   headline = "British Audio Producer, Conductor & Baritone"
   bio = "Bringing music to life through creative collaboration and meticulous craft."
   links = [
