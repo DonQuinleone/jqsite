@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Josh Quinlan</title>
+    <link>http://localhost:1313/tags/services/</link>
+    <description>Recent content in Services on Josh Quinlan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Josh Quinlan</copyright>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>I am always happy to discuss potential projects with clients, and can come up with custom solutions as needed.</description>
+    </item>
+    <item>
+      <title>Testimonials</title>
+      <link>http://localhost:1313/testimonials/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/testimonials/</guid>
+      <description>I greatly enjoy the opportunities and varied experiences that a portfolio career offers.</description>
+    </item>
+  </channel>
+</rss>
