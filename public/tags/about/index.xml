@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Josh Quinlan</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on Josh Quinlan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Josh Quinlan</copyright>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Josh Quinlan, originally from Liverpool and now based in Dorset, is a multifaceted musician know for his work as a producer, conductor, and baritone.</description>
+    </item>
+  </channel>
+</rss>
