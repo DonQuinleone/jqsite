@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2020-04-19
-lastmod: 2025-01-26
+lastmod: 2025-01-31
 draft: false
 showAuthor: false
 showTableOfContents: true
