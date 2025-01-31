@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Josh Quinlan - British Audio Producer"
-copyright = "© Josh Quinlan"
+copyright = "© Josh Quinlan - <a href='https://github.com/DonQuinleone/jqsite' target='_blank'>View source on GitHub</a>"
 
 [params]
   dateFormat = "2 January, 2006"
