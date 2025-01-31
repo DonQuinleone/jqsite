@@ -1,7 +1,7 @@
 ---
 title: "Young Composers 4"
 date: 2023-01-27
-summary: "Released on NMC Recordings"
+summary: "Role: Singer & Artist Rep<br>Released on NMC Recordings"
 showSummary: true
 showPagination: true
 ---
