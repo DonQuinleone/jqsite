@@ -26,6 +26,12 @@ showPagination: true
 {{< icon "globe" >}} View on Label Website
 {{< /button >}}
 
+---
+
+{{< spotify type="album" id="519LESnhd3LHkRNCgWAye0" width="100%" height="500" >}}
+
+---
+
 ## Tracks
 
 |#|Track Title|Composer|
