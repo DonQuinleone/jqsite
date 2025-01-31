@@ -3,6 +3,7 @@ title: "Services"
 date: 2020-04-19
 lastmod: 2025-01-26
 draft: false
+showAuthor: false
 showTableOfContents: true
 slug: "services"
 tags: ["services"]

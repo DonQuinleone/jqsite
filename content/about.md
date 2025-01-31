@@ -3,6 +3,7 @@ title: "About"
 date: 2016-07-21
 lastmod: 2025-01-26
 draft: false
+showAuthor: false
 slug: "about"
 tags: ["about", "biog"]
 ---
