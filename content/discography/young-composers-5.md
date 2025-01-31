@@ -1,7 +1,7 @@
 ---
 title: "Young Composers 5"
 date: 2024-01-26
-summary: "Released on NMC Recordings"
+summary: "Role: Producer & Editor<br>Released on NMC Recordings"
 showSummary: true
 showPagination: true
 ---

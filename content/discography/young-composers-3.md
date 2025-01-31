@@ -1,7 +1,7 @@
 ---
 title: "Young Composers Scheme, Vol. 3"
 date: 2022-01-28
-summary: "Released on NMC Recordings"
+summary: "Role: Singer<br>Released on NMC Recordings"
 showSummary: true
 showPagination: true
 ---

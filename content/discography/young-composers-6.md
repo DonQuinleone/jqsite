@@ -1,7 +1,7 @@
 ---
 title: "Young Composers 6"
 date: 2025-01-31
-summary: "Released on NMC Recordings"
+summary: "Role: Producer & Editor<br>Released on NMC Recordings"
 showSummary: true
 showPagination: true
 ---

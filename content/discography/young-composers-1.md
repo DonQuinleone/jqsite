@@ -1,7 +1,7 @@
 ---
 title: "Young Composers Scheme"
 date: 2020-01-17
-summary: "Released on NMC Recordings"
+summary: "Role: Singer<br>Released on NMC Recordings"
 showSummary: true
 showPagination: true
 ---
