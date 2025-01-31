@@ -28,3 +28,7 @@ showPagination: true
 {{< button href="https://www.nationalyouthchoir.org.uk/marsh-word" target="_blank" >}}
 {{< icon "globe" >}} View on Label Website
 {{< /button >}}
+
+---
+
+{{< spotify type="track" id="3fDPoOJOIvNCBmEDGs0fFE" width="100%" height="250" >}}
