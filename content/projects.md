@@ -1,14 +1,30 @@
 ---
-title: "Testimonials"
+title: "Projects"
 date: 2020-04-19
 lastmod: 2025-01-26
 draft: false
 showTableOfContents: true
-slug: "testimonials"
-tags: ["services"]
+slug: "projects"
 ---
 
 I greatly enjoy the opportunities and varied experiences that a portfolio career offers. No week will ever look quite the same, and I have the fantastic opportunity to meet so many wonderful, talented people along the way.
+
+## Previous Work
+
+### Discography
+
+You can find a catalogue of the recordings that I have worked on in my Discography.
+
+{{< button href="/discography" target="_self" >}}
+{{< icon "hashnode" >}} View Discography
+{{< /button >}}
+
+### Scores
+
+I will be happy to provide samples of my engraving work on request. Please contact me if this is something that you'd be interested in.
+
+Soon, I will be publishing a selection of sample scores on my website for your perusal.
+
 
 ## Testimonials
 

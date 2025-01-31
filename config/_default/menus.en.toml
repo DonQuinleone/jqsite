@@ -21,19 +21,14 @@
   weight = 20
 
 [[main]]
-  name = "Testimonials"
-  pageRef = "testimonials"
+  name = "Projects"
+  pageRef = "projects"
   weight = 30
 
 [[main]]
   name = "Articles"
   pageRef = "posts"
   weight = 40
-
-[[main]]
-  name = "Clients"
-  pageRef = "clients"
-  weight = 50
 
 [[main]]
   name = "Contact"
@@ -46,3 +41,7 @@
   [main.params]
     action = "search"
 
+[[footer]]
+  name = "Client Resources"
+  pageRef = "clients"
+  weight = 10
