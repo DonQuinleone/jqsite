@@ -28,3 +28,7 @@ showPagination: true
 {{< button href="https://www.nationalyouthchoir.org.uk/cullum-how-do-you-fly" target="_blank" >}}
 {{< icon "globe" >}} View on Label Website
 {{< /button >}}
+
+---
+
+{{< spotify type="track" id="6ie8t54VOIAB9sKJtQWGlR" width="100%" height="250" >}}
