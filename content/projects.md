@@ -20,6 +20,19 @@ You can find a catalogue of the recordings that I have worked on in my Discograp
 {{< icon "hashnode" >}} View Discography
 {{< /button >}}
 
+### Audio Showreel
+
+Below you can find a playlist comprising a varied selection of the tracks that I have produced, trying to represent a number of different styles and ensembles.
+
+{{< spotify type="playlist" id="3Bx8dv6mnzaWq90A73PkkX" width="100%" height="500" >}}
+
+<br>
+
+{{< button href="https://open.spotify.com/playlist/3Bx8dv6mnzaWq90A73PkkX?si=3678dadf1d594859" target="_blank" >}}
+{{< icon "spotify" >}} Open Showreel in Spotify
+{{< /button >}}
+
+
 ### Scores
 
 I will be happy to provide samples of my engraving work on request. Please contact me if this is something that you'd be interested in.
