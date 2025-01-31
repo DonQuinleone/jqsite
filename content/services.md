@@ -15,15 +15,15 @@ My most popular services include:
 
 ## Audio & Video Services
 
-* Planning and producing audio/video recording sessions
-    * Project management, from conception through to release
-    * Booking and organising artistic and production staff
-    * Acting as Producer in the sessions themselves
-    * Leading on all post-production activity, ensuring that all stakeholders have given feedback and that assets are delivered on time.
-    * Distributing releases via Endelium (or any other preferred distributor)
+* Producing recording sessions
+* Managing and planning productions from concept through to delivery
+* Booking artists and production staff
+* Record distribution through [Endelium](https://endelium.com)
 * Editing audio and video projects
 * Location recording
 * Curating learning, guide and click tracks
+
+I have particular expertise in working with choirs and youth ensembles, though I deeply enjoy collaborating with ensembles of all kinds!
 
 ## Singing & Performance Direction
 
@@ -52,6 +52,6 @@ My most popular services include:
 
 ## Technical Services
 
-* Website, e-mail, application and custom hosting solutions via AetherForge
+* Website, e-mail, application and custom hosting solutions via [AetherForge](https://aetherforge.com)
 * System administration (including web servers, DNS, e-mail, reverse proxies, HA, cloud orchestration, etc.)
 * Software development (websites, custom applications, CI/CO workflows, scripts, etc.)
