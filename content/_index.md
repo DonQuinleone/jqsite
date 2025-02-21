@@ -7,4 +7,4 @@ If you are looking for professionalism, enthusiasm and proficiency in the curati
 I felt confident that I was in safe hands!<br>
 ~ **Jamie Wright (Baritone, The Swingles)**
 
-
+<hr>
