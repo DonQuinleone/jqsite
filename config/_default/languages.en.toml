@@ -8,8 +8,7 @@ copyright = "© Josh Quinlan - <a href='https://github.com/DonQuinleone/jqsite' 
 
 [params]
   dateFormat = "2 January, 2006"
-
-  # mainSections = ["section1", "section2"]
+  mainSections = ["discography"]
   description = "British Audio Producer, Conductor & Baritone"
 
 [params.author]
