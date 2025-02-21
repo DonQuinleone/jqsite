@@ -15,7 +15,7 @@ showPagination: true
 |Client|[National Youth Choir](https://www.nationalyouthchoir.org.uk)|
 |Artists|National Youth Choir (15-18 Years)<br>Elinor Cooper (conductor)|
 |Engineer|[David Jones](https://sonusaudio.co.uk/)|
-|Label|[National Youth Choir Recordings](/labels/national-youth-choir-recordings)
+|Label|[National Youth Choir Recordings](https://www.nationalyouthchoir.org.uk/recordings)
 
 {{< button href="https://open.spotify.com/album/23vDS4I9P81xgfSjwqiZBX" target="_blank" >}}
 {{< icon "spotify" >}} Listen on Spotify
@@ -25,7 +25,7 @@ showPagination: true
 {{< icon "apple" >}} Listen on Apple Music
 {{< /button >}}
 
-{{< button href="https://www.nationalyouthchoir.org.uk/sun-keting-kong-guan" target="_blank" >}}
+{{< button href="https://www.nationalyouthchoir.org.uk/sun-keting-kng-gun" target="_blank" >}}
 {{< icon "globe" >}} View on Label Website
 {{< /button >}}
 
