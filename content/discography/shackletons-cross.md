@@ -1,5 +1,5 @@
 ---
-title: "Shackleton's Cross"
+title: "Howard Goodall: Shackleton's Cross"
 date: 2025-03-05
 summary: "Role: Distributor<br>
             Jo Harris (trumpet) & Richard Pearce (organ)<br>
