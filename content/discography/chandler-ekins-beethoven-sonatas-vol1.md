@@ -21,10 +21,10 @@ showPagination: true
 {{< icon "spotify" >}} Listen on Spotify
 {{< /button >}}
 
-{{< button href="" target="_blank" >}}
+{{< button href="ihttps://music.apple.com/gb/album/beethoven-sonatas-for-violin-piano-vol-1/1814515676" target="_blank" >}}
 {{< icon "apple" >}} Listen on Apple Music
 {{< /button >}}
 
 ---
 
-{{< spotify type="album" id="04ehLFAy1sDfVev6TRE61C" width="100%" height="250" >}}
+{{< spotify type="album" id="04ehLFAy1sDfVev6TRE61C" width="100%" height="500" >}}
