@@ -27,4 +27,4 @@ showPagination: true
 
 ---
 
-{{< spotify type="album" id="04ehLFAy1sDfVev6TRE61C" width="100%" height="500" >}}
+{{< spotify type="album" id="6w4Vnyrwxor6C3MltCtCtH" width="100%" height="500" >}}
