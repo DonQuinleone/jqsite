@@ -17,7 +17,7 @@ I greatly enjoy the opportunities and varied experiences that a portfolio career
 You can find a catalogue of the recordings that I have worked on in my Discography.
 
 {{< button href="/discography" target="_self" >}}
-{{< icon "hashnode" >}} View Discography
+{{< icon "cd" >}} View Discography
 {{< /button >}}
 
 ### Audio Showreel
