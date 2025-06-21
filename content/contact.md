@@ -88,7 +88,7 @@ xwo=
 
 
 {{< button href="/hi_joshq_uk.asc" target="_self" >}}
-{{< icon "download" >}} Download Public Key
+{{< icon "link" >}} Download Public Key
 {{< /button >}}
 
 You can verify my PGP key in person or via trusted channels if needed.
