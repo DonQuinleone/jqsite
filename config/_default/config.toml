@@ -8,6 +8,8 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
+custom_css = ["css/custom.css"]
+
 [pagination]
   pagerSize = 10
 
