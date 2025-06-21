@@ -9,12 +9,24 @@ slug: "contact"
 
 The best way to get in contact with me is [via e-mail](mailto:hi@joshq.uk).
 
+I always try to reply within 24 hours. If you haven’t heard back after 72 hours, please resend.
+
+All outgoing emails from me are digitally signed and my domains are secured with modern anti-spoofing mechanisms.
+
+## Technical Details
+
+I will always sign outgoing e-mails using my S/MIME certificate, so if you see a verification tick or padlock next to my name in your e-mail client of choice, you can be sure that the e-mail is from me.
+
+My e-mail infrastructure also enforces strict SPF alignment, publishes valid DKIM signatures, and has an active DMARC policy to help prevent spoofing and ensure that all legitimate messages from my domain are properly authenticated.
+
+I am also a proponent of using plain text e-mail wherever possible. For more information, see [useplaintext.email](https://useplaintext.email).
+
 ## Sending me an encrypted e-mail
 
 Should you need to send me an encrypted e-mail, please do so using my PGP key:
 
 * Key ID: `993DDB26`
-* Fingerprint: `CEDD 923D 3617 B128 5FCF  D1D5 B8E9 BD52 780C F972`
+* Fingerprint: `CEDD 923D 3617 B128 5FCF  D1D5 B8E9 BD52 780C F972`
 * Expiry Date: `2029-01-01`
 
 Public key:
@@ -73,3 +85,10 @@ xwo=
 =KlZz
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+
+{{< button href="/hi_joshq_uk.asc" target="_self" >}}
+{{< icon "download" >}} Download Public Key
+{{< /button >}}
+
+You can verify my PGP key in person or via trusted channels if needed.
