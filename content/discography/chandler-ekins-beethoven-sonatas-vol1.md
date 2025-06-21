@@ -21,7 +21,7 @@ showPagination: true
 {{< icon "spotify" >}} Listen on Spotify
 {{< /button >}}
 
-{{< button href="ihttps://music.apple.com/gb/album/beethoven-sonatas-for-violin-piano-vol-1/1814515676" target="_blank" >}}
+{{< button href="https://music.apple.com/gb/album/beethoven-sonatas-for-violin-piano-vol-1/1814515676" target="_blank" >}}
 {{< icon "apple" >}} Listen on Apple Music
 {{< /button >}}
 
