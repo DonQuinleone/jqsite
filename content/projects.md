@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2020-04-19
-lastmod: 2025-01-31
+lastmod: 2025-07-04
 draft: false
 showAuthor: false
 showTableOfContents: true
@@ -69,12 +69,15 @@ I count myself incredibly fortunate to have worked with some truly amazing indiv
 * Boston Pops Orchestra
 * English Chamber Orchestra
 * Gabrieli Consort & Players
+* Joanna Forbes L'Estrange & Alexander L'Estrange
+* Jo Harris
 * Kristina Arakelyan
 * National Youth Choir
 * NMC Recordings
 * Primal Scream / Bobby Gillespie
 * Ralph Allwood MBE
 * Salisbury Cathedral
+* Siglo de Oro
 * The Swingles
 * Trinity College London
 * Wells Cathedral Choir

@@ -1,7 +1,7 @@
 ---
 title: "My Producting & Editing Workflow"
 date: 2024-11-07
-lastmod: 2025-01-26
+lastmod: 2025-07-04
 description: "An overview of the processes that I use to produce & edit recordings."
 summary: "An overview of the processes that I use to produce & edit recordings."
 showTableOfContents: true
@@ -66,14 +66,14 @@ All additional documents, including stage plans, schedules, etc., are stored in 
 ### Recording day
 
 Generally, I run two different systems on recording day:
-* a 12.9-inch iPad Pro
-* an M1 Pro MacBook Pro (2021 model)
+* a 12.9-inch iPad Pro Gen 5
+* an M4 Pro MacBook Pro (Late 2024 model)
 
 though the latter of these could really be anything – this just happens to be my primary machine at the moment.
 
 ![Setup in a recent recording session](recording-day.jpg "A photograph of a recent recording session with engineer David Jones and conductor Lucy Joy Morris")
 
-I use the iPad to view the scores being recorded and make all of my annotations. Specifically, I use the [forScore](https://forscore.co/) app and an Apple Pencil Gen 2. Aside from the fact that I’m doing things digitally, everything else is relatively standard – I use T-notation for denoting patch choices and overdubs, scrawl where I need a mark to jog my memory, and note down where takes start/end beneath the stave. I might write a separate post in the future about my annotation system.
+I use the iPad to view the scores being recorded and make all of my annotations. I used to use the [forScore](https://forscore.co/) app, but have recently switched to the native Preview app (introduced in the iPad OS 26 Developer Beta) and an Apple Pencil Gen 2. Aside from the fact that I’m doing things digitally, everything else is relatively standard – I use T-notation for denoting patch choices and overdubs, scrawl where I need a mark to jog my memory, and note down where takes start/end beneath the stave. I might write a separate post in the future about my annotation system.
 
 The below is an example page from a score recorded in October 2024 – they don’t all look this neat (if you can even call this neat!):
 
@@ -103,7 +103,7 @@ Put simply, it is by far the best option when recording anything to click and/or
 
 ![Pro Tools Session for Ben Parry's One Long Song](onelongsong-protools.png "A photography of the Pro Tools session for Ben Parry's 'One Long Song'")
 
-In terms of plugins, I generally keep things quite minimal. My reverb of choice is [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) – an inexpensive but high quality option, in my opinion – and my go to equalizer and compressor are both by [FabFilter](https://www.fabfilter.com/) – Pro-Q 3 and Pro-C 2 respectively. Of course, [Melodyne](https://www.celemony.com/en/melodyne/what-is-melodyne) is a must-have now-a-days too, though I try to use it as little as possible. For de-noising, I use a combination of [iZotope RX](https://www.izotope.com/en/products/rx.html) and [Steinberg SpectraLayers](https://www.steinberg.net/spectralayers/) – they’re both great and I use each for different things, though the bulk of my time is spent in RX. Lastly, for DDP creation I tend to use [DSP-Quattro’s DSP-AudioCDBuilder](https://www.dsp-quattro.com/dspquattro/Site/dsp-audiocdbuilder-features.html), along with [MP3tag](https://www.mp3tag.de/en/) for BEXT chunk authoring and MP3 tagging.
+In terms of plugins, I generally keep things quite minimal. My reverb of choice is [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) – an inexpensive but high quality option, in my opinion – and my go to equalizer and compressor are both by [FabFilter](https://www.fabfilter.com/) – Pro-Q 3 and Pro-C 2 respectively. Of course, [Melodyne](https://www.celemony.com/en/melodyne/what-is-melodyne) is a must-have now-a-days too, though I try to use it as little as possible. For de-noising, I use a combination of [iZotope RX](https://www.izotope.com/en/products/rx.html) and [Steinberg SpectraLayers](https://www.steinberg.net/spectralayers/) – they’re both great and I use each for different things, though the bulk of my time is spent in RX. Lastly, for DDP creation I tend to use [HOFA CD-Burn DDP Master](https://hofa-plugins.de/en/shop/cd-ddp-en/cd-burn-ddp-master/), along with [MP3tag](https://www.mp3tag.de/en/) for BEXT chunk authoring and MP3 tagging where needed.
 
 I also like to be able to be hands-on when mixing sessions, so I use a [PreSonus FaderPort 16](https://uk.presonus.com/products/faderport-16-production-controller) to make life a bit easier. I don’t use it on every session, but when working on big projects, it can save lots of time, especially where lots of volume automation is needed. Other hardware includes an [SSL 2+](https://solidstatelogic.com/products/ssl2-plus) and a [Focusrite Scarlett 18i20 Gen 3](https://focusrite.com/products/scarlett-18i20-3rd-gen), along with assorted headphones (mostly from Beyerdynamic, Sony and Sennheiser), and I use both [Dante](https://www.getdante.com/) and [Rogue Amoeba’s Loopback](https://rogueamoeba.com/loopback/) for audio routing on the network and in-machine respectively.
 
@@ -159,12 +159,12 @@ Getting to this point has been quite the journey and has involved lots of trial-
 Here’s a quick TL;DR of the technologies being used:
 
 * DAWs of choice: **MAGIX Sequoia** (primary choice for classical recordings) and **Avid Pro Tools Studio** (for any recordings done to click or with high channel count)
-* Score reading software: **forScore**
+* Score reading software: **Preview** (on iPad)
 * Take logging software: **TakeLogger** (custom built open source application)
 * Stakeholder review/approvals system: **QReview** (extended/customised version of **Kollaborate Server**)
 * File storage: **Athena** (**Nextcloud** instance), with copies stored on a NAS for quick local access
 * E-mail: **Hermes** (self-hosted, using **Postfix**, **Dovecot** and other open source components)
 * CRM: Customised version of **EspoCRM**
 * Billing/invoicing: **InvoicePlane**
-* Computer systems: **MacBook Pro M1 Pro (2021)** (primary machine) and a custom-built machine dual-booting Windows and Arch Linux for running Sequoia & other specialist applications.
+* Computer systems: **MacBook Pro M4 Pro (Late 2024)** (primary machine) and a custom-built machine dual-booting Windows and Arch Linux for running Sequoia & other specialist applications.
 
