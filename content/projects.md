@@ -72,6 +72,7 @@ I count myself incredibly fortunate to have worked with some truly amazing indiv
 * Joanna Forbes L'Estrange & Alexander L'Estrange
 * Jo Harris
 * Kristina Arakelyan
+* London Youth Choirs
 * National Youth Choir
 * NMC Recordings
 * Primal Scream / Bobby Gillespie
