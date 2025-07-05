@@ -18,6 +18,7 @@ copyright = "© Josh Quinlan - <a href='https://github.com/DonQuinleone/jqsite' 
   bio = "Bringing music to life through creative collaboration and meticulous craft."
   links = [
     { link = "https://joshquinlan.co.uk/" },
+    { discogs = "https://www.discogs.com/artist/15314391-Josh-Quinlan-2" },
     { instagram = "https://instagram.com/JoshNQuinlan" },
     { x-twitter = "https://twitter.com/JoshNQuinlan" },
     { linkedin = "https://linkedin.com/in/joshnquinlan" },

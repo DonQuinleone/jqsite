@@ -28,8 +28,8 @@ fingerprintAlgorithm = "sha256"
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
-  showScrollToTop = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
