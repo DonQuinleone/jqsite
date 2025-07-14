@@ -52,6 +52,6 @@ I have particular expertise in working with choirs and youth ensembles, though I
 
 ## Technical Services
 
-* Website, e-mail, application and custom hosting solutions via [AetherForge](https://aetherforge.com)
+* Website, e-mail, application and custom hosting solutions
 * System administration (including web servers, DNS, e-mail, reverse proxies, HA, cloud orchestration, etc.)
 * Software development (websites, custom applications, CI/CO workflows, scripts, etc.)
